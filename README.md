@@ -33,7 +33,7 @@
 
 <h2><img src="assets/wave.svg" width="26" height="26" style="vertical-align:middle" alt="wave" /> About Me</h2>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="250" />
+<img src="assets/gif.gif" align="right" width="250" />
 
  <table>
 <tr><td>🧪 &nbsp;<b>Role</b></td><td>SDET / QA Automation Engineer</td></tr>
