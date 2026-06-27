@@ -33,11 +33,11 @@
 
 <h2><img src="assets/wave.svg" width="26" height="26" style="vertical-align:middle" alt="wave" /> About Me</h2>
 
-<img src="assets/gif.gif" align="right" width="250" />
+<img src="assets/gif.gif" align="right" width="225" />
 
  <table>
 <tr><td>🧪 &nbsp;<b>Role</b></td><td>SDET / QA Automation Engineer</td></tr>
-<tr><td>📈 &nbsp;<b>Experience</b></td><td>5+ years — Retail · Banking · Enterprise</td></tr>
+<tr><td>📈 &nbsp;<b>Experience</b></td><td>5+ years — Retail · Banking · Utilities</td></tr>
 <tr><td>🎓 &nbsp;<b>Education</b></td><td>Master's degree, University of North Texas</td></tr>
 <tr><td>🛠️ &nbsp;<b>Specialties</b></td><td>Playwright/TS · Selenium/Java · API + DB validation · CI/CD</td></tr>
 <tr><td>🤖 &nbsp;<b>Currently</b></td><td>Exploring AI-augmented testing with Copilot, Claude & MCP</td></tr>
