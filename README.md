@@ -26,3 +26,25 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20SDET%20Roles-2EAD33?style=for-the-badge" alt="Open to work"/>
 </p>
 </div>
+
+</div>
+
+<!-- ===================== ABOUT ===================== -->
+
+<h2><img src="assets/wave.svg" width="26" height="26" style="vertical-align:middle" alt="wave" /> About Me</h2>
+ 
+<table>
+<tr><td>🧪 &nbsp;<b>Role</b></td><td>SDET / QA Automation Engineer</td></tr>
+<tr><td>📈 &nbsp;<b>Experience</b></td><td>5+ years — Retail · Banking · Enterprise</td></tr>
+<tr><td>🎓 &nbsp;<b>Education</b></td><td>Master's degree, University of North Texas</td></tr>
+<tr><td>🛠️ &nbsp;<b>Specialties</b></td><td>Playwright/TS · Selenium/Java · API + DB validation · CI/CD</td></tr>
+<tr><td>🤖 &nbsp;<b>Currently</b></td><td>Exploring AI-augmented testing with Copilot, Claude & MCP</td></tr>
+</table>
+ 
+I'm an SDET who builds **scalable UI, API, and database test automation** and integrates it straight into CI/CD pipelines. Across retail, banking, and enterprise apps I've focused on the things that actually move the needle: **reducing flaky tests, cutting regression runtime, and catching defects before they ship.** I own quality the whole way through - framework design, test strategy, the defect lifecycle, and release readiness — working shoulder-to-shoulder with devs and DevOps in Agile/Scrum teams.
+ 
+### ⭐ My Absolute Favorites
+ 
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 🏋️ &nbsp; Into fitness and eating well.
+---
