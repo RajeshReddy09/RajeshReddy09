@@ -55,3 +55,50 @@ I'm an SDET who builds **scalable UI, API, and database test automation** and in
 - 🏋️ &nbsp; Into fitness and eating well.
 ---
 
+
+<!-- ===================== HIGHLIGHTS ===================== -->
+## 🚀 What I Bring to a QA Team
+ 
+| 🧪 Frameworks from scratch | ⚡ Speed & stability | 🔍 Full-stack validation |
+|---|---|---|
+| Built a **Playwright + TypeScript** framework from the ground up — custom fixtures for browser context, auth state, and test-data setup/teardown for isolated, parallel-safe tests. | Cut full regression runtime **2h → 1h 22m** and slashed flaky failures using auto-waiting, web-first assertions, network mocking, tracing, retries & sharded parallel runs. | Hybrid **UI + API + DB** testing — REST Assured / APIRequestContext for services, SQL reconciliation against Oracle core-banking to catch defects UI-only testing misses. |
+| **AI-augmented workflow** — Copilot for framework dev & refactoring; MCP to connect AI assistants to Jira & Jenkins. | Wired suites into **Jenkins / GitHub Actions / Azure DevOps** for regression on every build. | **PCI-aware** test design, role-based access & audit-trail validation for regulated banking platforms. |
+ 
+>📊 **Track record:** 🏗️ Built a Playwright/TypeScript automation framework from scratch | 📈 Raised regression coverage from 64% to 72% | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👥 Mentored 4 QA engineers onto a Playwright/TS suite
+---
+
+<!-- ===================== EXPERIENCE SNAPSHOT ===================== -->
+## 💼 Experience Snapshot
+ 
+- **Quality Engineer II** — *NCR Voyix* (Client: **Whole Foods Market**, POS Back-Office) · `Playwright` `TypeScript` `Jenkins`
+- **QA Automation Engineer** — *Infosys* (Client: **Synchrony**, Online Banking & Payments) · `Selenium` `Java` `REST Assured` `Cucumber` `Oracle`
+- **Test Engineer** — *Infosys* (Client: **Uniper**, Energy Management System) · `Selenium` `Java` `TestNG` `MySQL`
+---
+ 
+<!-- ===================== EDUCATION ===================== -->
+
+## 🎓 Education
+
+<table>
+  <tr><td><b>Master's degree</b></td><td>University of North Texas — Texas, USA<br/><sub>Advanced Data Analytics</sub></td></tr>
+  <tr><td><b>Bachelor's degree</b></td><td>Vellore Institute of Technology — Tamil Nadu, India<br/><sub>Mechanical Engineering</sub></td></tr>
+</table>
+
+ 
+<!-- ===================== CONNECT ===================== -->
+<div align="center">
+### 🤝 Let's Connect
+ 
+Open to **SDET / QA Automation** roles across the US. If you're building reliable software and want someone who owns quality end-to-end — let's talk.
+ 
+<a href="https://linkedin.com/in/krajeshreddy09">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:krajeshreddy09@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2EAD33&height=120&section=footer" width="100%"/>
+</div>
+
+
+
