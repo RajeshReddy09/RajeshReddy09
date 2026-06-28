@@ -64,7 +64,7 @@ I'm an SDET who builds **scalable UI, API, and database test automation** and in
 | Built a **Playwright + TypeScript** framework from the ground up — custom fixtures for browser context, auth state, and test-data setup/teardown for isolated, parallel-safe tests. | Cut full regression runtime **2h → 1h 22m** and slashed flaky failures using auto-waiting, web-first assertions, network mocking, tracing, retries & sharded parallel runs. | Hybrid **UI + API + DB** testing — REST Assured / APIRequestContext for services, SQL reconciliation against Oracle core-banking to catch defects UI-only testing misses. |
 | **AI-augmented workflow** — Copilot for framework dev & refactoring; MCP to connect AI assistants to Jira & Jenkins. | Wired suites into **Jenkins / GitHub Actions / Azure DevOps** for regression on every build. | **PCI-aware** test design, role-based access & audit-trail validation for regulated banking platforms. |
  
->📊 **Track record:** 🏗️ Built a Playwright/TypeScript automation framework from scratch | 📈 Raised regression coverage from 64% to 72% | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👥 Mentored 4 QA engineers onto a Playwright/TS suite
+>📊 **Track record:** 🏗️ Built a Playwright/TypeScript automation framework from scratch | 📈 Raised regression coverage from 64% to 72% | 👥 Mentored 4 QA engineers onto a Playwright/TS suite
 ---
 
 <!-- ===================== EXPERIENCE SNAPSHOT ===================== -->
